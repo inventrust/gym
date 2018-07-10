@@ -24,7 +24,7 @@
 | 4. Custom config files
 | 5. Language files
 | 6. Models
-|
+| 7. Test 
 */
 
 /*
